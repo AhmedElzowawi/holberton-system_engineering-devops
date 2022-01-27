@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 611 4-empty
+chmod +rwxr-r-- 4-empty

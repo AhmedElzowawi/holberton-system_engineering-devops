@@ -1,1 +1,1 @@
-file -m --mime-type usr/local/share/misc/magic.mgc
+file /usr/share/misc/magic

@@ -1,2 +1,2 @@
-file -m school.mgc /usr/share/misc/magic
-file -m school.mgc *
+!:mime school
+file --mime-type -m school.mgc *

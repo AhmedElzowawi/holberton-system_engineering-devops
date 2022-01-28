@@ -1,2 +1,2 @@
 file -m school.mgc /usr/share/misc/magic
-cp /bin/ls .
+ls -la

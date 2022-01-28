@@ -1,1 +1,1 @@
-file /usr/share/misc/magic
+file -m /usr/share/misc/magic

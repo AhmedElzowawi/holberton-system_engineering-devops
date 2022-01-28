@@ -1,1 +1,1 @@
-file /usr/share/misc/school.mgc
+file -m school.mgc *

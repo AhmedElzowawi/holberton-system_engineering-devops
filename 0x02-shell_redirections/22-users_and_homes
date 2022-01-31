@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd | ls
+cut -d":" -f6 /etc/passwd |sort

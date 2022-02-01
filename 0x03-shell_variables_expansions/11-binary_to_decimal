@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "$BINARY" "obase=10"
+echo "$BINARY" | tr "obase=2" "obase=10"
